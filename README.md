@@ -1,3 +1,4 @@
 # Articles
 
 - [REST API](https://github.com/Xpom1/Articles/blob/main/Articles/Rest_API/README.md)
+- [Что такое ORM и его преимущества](https://github.com/Xpom1/Articles/tree/main/Articles/Django_models)
