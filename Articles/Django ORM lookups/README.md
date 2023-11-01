@@ -79,17 +79,9 @@ contains - Ищет точное совпадение в тексте.
 >> > GroupInfo.objects.filter(info__contains='МАДИ')
 < QuerySet[ < GroupInfo: Корпус
 МАДИ >] >
-
-icontains - Работает
-так
-же
-как
-contains, но
-ему
-не
-важен
-регистр.
-
+```
+icontains - Работает так же как contains, но ему не важен регистр.
+```python
 >> > GroupInfo.objects.filter(info__icontains='мади')
 < QuerySet[ < GroupInfo: Корпус
 МАДИ >] >
