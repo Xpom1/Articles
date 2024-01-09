@@ -9,3 +9,7 @@
 - [Dump_Load](Articles%2FDump_Load)
 - [Валидация через Serializers](Articles%2F%C2%E0%EB%E8%E4%E0%F6%E8%FF%20%F7%E5%F0%E5%E7%20Serializers)
 - [Работа с DRF Serializers](Articles%2F%D0%E0%E1%EE%F2%E0%20%F1%20DRF%20Serializers)
+- [Aggregation vs SerializerMethodField](Articles%2FAggregation%20vs%20SerializerMethodField)
+- [Celery и Redis в Django](Articles%2FCelery%20%E8%20Redis%20%E2%20Django)
+- [DRF Views](Articles%2FDRF%20Views)
+- [select_related() и prefetch_related()](Articles%2Fselect_related%28%29%20%E8%20prefetch_related%28%29)
