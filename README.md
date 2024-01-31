@@ -13,3 +13,4 @@
 - [Celery и Redis в Django](Articles%2FCelery%20%E8%20Redis%20%E2%20Django)
 - [DRF Views](Articles%2FDRF%20Views)
 - [select_related() и prefetch_related()](Articles%2Fselect_related%28%29%20%E8%20prefetch_related%28%29)
+- [Создания большого количества объектов](Articles%2F%D1%EE%E7%E4%E0%ED%E8%FF%20%E1%EE%EB%FC%F8%EE%E3%EE%20%EA%EE%EB%E8%F7%E5%F1%F2%E2%E0%20%EE%E1%FA%E5%EA%F2%EE%E2)
